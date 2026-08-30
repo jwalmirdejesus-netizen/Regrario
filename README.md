@@ -1,7 +1,7 @@
 # Regrário — circuito lógico #
  https://regrario.htmly.com.br
 
-https://raw.github.com/jwalmirdejesus-netizen/Regrario/blob/main/Screenshot_20260830-152300.jpg
+![Screenshot](Screenshot_20260830-152300.jpg)
 
 Regrário não é mais uma linguagem pra você decorar sintaxe. É um circuito que você vê funcionando.
 
