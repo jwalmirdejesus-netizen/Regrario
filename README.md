@@ -1,6 +1,8 @@
 # Regrário — circuito lógico #
  https://regrario.htmly.com.br
 
+https://raw.github.com/jwalmirdejesus-netizen/Regrario/blob/main/Screenshot_20260830-152300.jpg
+
 Regrário não é mais uma linguagem pra você decorar sintaxe. É um circuito que você vê funcionando.
 
 A ideia nasceu de uma frustração simples: programar é legal, mas começar é doloroso. Muita regra, muito medo de errar, zero dopamina. Então eu criei uma linguagem que funciona como o seu cérebro funciona quando está inspirado.
