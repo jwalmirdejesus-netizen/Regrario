@@ -1,4 +1,4 @@
-# Regrário — circuito lógico 👻💤
+# Regrário — circuito lógico #
 
 Regrário não é mais uma linguagem pra você decorar sintaxe. É um circuito que você vê funcionando.
 
@@ -41,7 +41,7 @@ Entradas, botões, layout, mídia, gráficos, loja, social, gamificação, lógi
 
 Dá pra fazer de calculadora a CRUD, de quiz a livro-jogo, de lojinha a chatbot.
 
-> REGRÁRIO GAME BOY EDITION • 4 TONS • DMG-01 • PIKA PIKA! ⚡
+> REGRÁRIO GAME BOY EDITION • 4 TONS • DMG-01 .
 
 Feito com som de Game Boy ligando, debug visual e muito carinho.
 
