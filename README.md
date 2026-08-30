@@ -1,5 +1,5 @@
 # Regrário — circuito lógico #
- www.regrario.htmly.com.br
+ https://regrario.htmly.com.br
 Regrário não é mais uma linguagem pra você decorar sintaxe. É um circuito que você vê funcionando.
 
 A ideia nasceu de uma frustração simples: programar é legal, mas começar é doloroso. Muita regra, muito medo de errar, zero dopamina. Então eu criei uma linguagem que funciona como o seu cérebro funciona quando está inspirado.
